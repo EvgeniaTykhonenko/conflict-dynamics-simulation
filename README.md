@@ -35,8 +35,6 @@ The algorithmic core relies on dynamic probability correction, allowing the syst
 * pandas
 * numpy
 * matplotlib
-* statsmodels
-* openpyxl
 
 ## Author
 **Yevhenia Tykhonenko** National University of Kyiv-Mohyla Academy (NaUKMA), 2026.
