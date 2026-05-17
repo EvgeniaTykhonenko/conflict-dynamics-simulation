@@ -26,5 +26,5 @@ The algorithmic core relies on dynamic probability correction, allowing the syst
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/your-username/conflict-dynamics-simulation.git](https://github.com/EvgeniaTykhonenko/conflict-dynamics-simulation.git)
+   git clone [https://github.com/EvgeniaTykhonenko/conflict-dynamics-simulation.git](https://github.com/EvgeniaTykhonenko/conflict-dynamics-simulation.git)
    cd conflict-dynamics-simulation
