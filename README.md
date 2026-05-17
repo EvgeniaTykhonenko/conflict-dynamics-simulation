@@ -25,6 +25,22 @@ The algorithmic core relies on dynamic probability correction, allowing the syst
 ## Installation and Usage
 
 1. Clone the repository:
-   ```bash
    git clone [https://github.com/EvgeniaTykhonenko/conflict-dynamics-simulation.git](https://github.com/EvgeniaTykhonenko/conflict-dynamics-simulation.git)
    cd conflict-dynamics-simulation
+2. Install the required dependencies: pip install -r requirements.txt
+3. Run the data preprocessing script: python src/preprocessing.py
+4. Execute the Monte Carlo simulation: python src/monte_carlo_sim.py
+
+## Dependencies
+* pandas
+* numpy
+* matplotlib
+* statsmodels
+* openpyxl
+
+## Author
+**Yevhenia Tykhonenko** National University of Kyiv-Mohyla Academy (NaUKMA), 2026.
+
+
+Degree Program: Applied Mathematics.
+
